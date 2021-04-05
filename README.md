@@ -1,5 +1,5 @@
 # Tumor Classification and Localization using Supervised Machine Learning
-
+Part of Northeastern University DS5220 - Supervised Machine Learning Coursework
 
 # Objective and significance:
 MRI image is an important component in the detection of tumors, and plays a key role in identifying the tumors. Medical images do not need to invade the body tissues to clearly show the relevant lesions. Compared with anatomy, it has an irreplaceable advantage. Magnetic Resonance Imaging (Magnetic Resonance Imaging) proved an important literary genre in the early medical imaging community. A very important step for analyzing and diagnosing MRI images using a computer is to segment the images in advance.
